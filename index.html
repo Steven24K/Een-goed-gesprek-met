@@ -1,16 +1,89 @@
-<h1>Een goed gesprek met van A tot Z</h1>
+<html lang="en">
 
-<a href="https://stevenkoerts.nl/Een-goed-gesprek-met/feed.rss">Ga naar RSS feed</a>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Een Goed Gesprek met van A tot Z</title>
 
-<h2>Luister op:</h2>
+    <link rel="stylesheet" href="./assets/css/site.css">
+</head>
 
-<audio controls>
-    <source src="https://feeds.soundcloud.com/stream/1323515713-user-571358776-4-jarle-lourens.mp3", type="audio/mpeg">
-</audio>
+<body>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/7J5NQpCDfWdpjJLaWQrRuq?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+    <div class="container">
+
+        <h1 class="main-title">Een Goed Gesprek met van A tot Z</h1>
+
+        <ul class="icon-list">
+            <li>
+                <a href="https://open.spotify.com/show/7J5NQpCDfWdpjJLaWQrRuq?si=427023589f2244e4" target="_blank">
+                    <img src="./assets/img/spotify-podcast-badge-blk-wht-165x40.svg" />
+                </a>
+            </li>
+            <li>
+                <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjExMjMyNTQ4OTUvc291bmRzLnJzcw?sa=X&ved=2ahUKEwjly-_omMb5AhV46rsIHasVD-wQ9sEGegQIARAC"
+                    target="_blank">
+                    <img src="./assets/img/unnamed.png" />
+                </a>
+            </li>
+            <li>
+                <a href="https://deezer.com/show/4509797" target="_blank">
+                    <img src="./assets/img/Deezer_Logo_RVB_Black.svg" />
+                </a>
+            </li>
+            <li>
+                <a href="https://soundcloud.com/user-571358776?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+                    target="_blank">
+                    <img src="./assets/img/btn-connect-sc-l.png" />
+                </a>
+            </li>
+            <li>
+                <a href="https://music.amazon.com/podcasts/be7f1139-0b52-46cc-aabd-d5fdec9aaea0/een-goed-gesprek-met-van-a-tot-z"
+                    target="_blank">
+                    <img src="./assets/img/downloaden.png" />
+                </a>
+            </li>
+            <li>
+                <a href="https://stevenkoerts.nl/Een-goed-gesprek-met/feed.rss" target="_blank">
+                    <img src="./assets/img/rss-svgrepo-com.svg" />
+                </a>
+            </li>
+        </ul>
+
+        <div class="players">
+
+            <ul class="player-list">
+                <li>
+                    <div class="audio-player" id="audio-player-container">
+                        <audio id="audio-1"
+                            src="https://feeds.soundcloud.com/stream/1323515713-user-571358776-4-jarle-lourens.mp3"
+                            preload="metadata" loop></audio>
+                        <p>#4 - Jarle Lourens</p>
+                        <button class="play-icon" id="play-icon">Play</button>
+                        <span id="current-time" class="time">0:00</span>
+                        <input type="range" id="seek-slider" max="100" value="0">
+                        <span id="duration" class="time">0:00</span>
+                    </div>
+                </li>
+
+            </ul>
+
+            <iframe style="border-radius:12px"
+                src="https://open.spotify.com/embed/playlist/1IjVrOMNdEVCEOP7MQRZw0?utm_source=generator" width="100%"
+                height="380" frameBorder="0" allowfullscreen=""
+                allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1306680811&color=%23249dc8&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-571358776" title="Een goed gesprek met van A tot Z" target="_blank" style="color: #cccccc; text-decoration: none;">Een goed gesprek met van A tot Z</a> · <a href="https://soundcloud.com/user-571358776/3-sonya-hellement" title="#2 - Sonya Hellement" target="_blank" style="color: #cccccc; text-decoration: none;">#2 - Sonya Hellement</a></div>
 
-<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjExMjMyNTQ4OTUvc291bmRzLnJzcw?sa=X&ved=0CAMQ4aUDahcKEwjQ6_38vaf5AhUAAAAAHQAAAAAQCA" target="_blank">Google Podcasts</a>
+        </div>
+
+    </div>
+
+    <script src="./assets/js/main.js"></script>
+
+
+
+</body>
+
+</html>
