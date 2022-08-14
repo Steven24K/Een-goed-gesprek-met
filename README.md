@@ -2,7 +2,7 @@
 
 GitHub als podcast platform.
 
-Hosted on https://stevenkoerts.nl/Een-goed-gesprek-met/feed.rss
+Hosted on https://stevenkoerts.nl/Een-goed-gesprek-met/
 
 Luister op: 
 
