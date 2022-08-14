@@ -27,6 +27,20 @@
         </image>
         <itunes:category text="Society &amp; Culture" />
         <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/1323515713</guid>
+            <title>#4 - Jarle Lourens</title>
+            <pubDate>Sun, 14 Aug 2022 09:34:05 +0000</pubDate>
+            <link>https://soundcloud.com/user-571358776/4-jarle-lourens</link>
+            <itunes:duration>00:38:46</itunes:duration>
+            <itunes:author>Een goed gesprek met van A tot Z</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>In deze uitzending zijn we in gesprek met Jarle Lourens, Jarle is spreker, story teller, spoken word artiest en stadsdichter van Schiedam. Hoe word je stadsdichter? Waarom ben je begonnen met schrijven? Welke potentie heeft Schiedam?</itunes:summary>
+            <itunes:subtitle>In deze uitzending zijn we in gesprek met Jarle L…</itunes:subtitle>
+            <description>In deze uitzending zijn we in gesprek met Jarle Lourens, Jarle is spreker, story teller, spoken word artiest en stadsdichter van Schiedam. Hoe word je stadsdichter? Waarom ben je begonnen met schrijven? Welke potentie heeft Schiedam?</description>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1323515713-user-571358776-4-jarle-lourens.mp3" length="36035232" />
+            <itunes:image href="https://i1.sndcdn.com/artworks-ZmUwWcxZPgL7nm3O-pePYNg-t3000x3000.jpg" />
+        </item>
+        <item>
             <guid isPermaLink="false">tag:soundcloud,2010:tracks/1316559253</guid>
             <title>#3 - Beau van 't Hoen</title>
             <pubDate>Tue, 02 Aug 2022 17:20:30 +0000</pubDate>
