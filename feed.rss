@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1123254895/sounds.rss" rel="self" type="application/rss+xml" />
-        <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1123254895/sounds.rss?before=1298598907" rel="next" type="application/rss+xml" />
+        <atom:link href="https://stevenkoerts.nl/Een-goed-gesprek-met/feed.rss" rel="self" type="application/rss+xml" />
+        <atom:link href="https://stevenkoerts.nl/Een-goed-gesprek-met/feed.rss?before=1298598907" rel="next" type="application/rss+xml" />
         <title>Een goed gesprek met van A tot Z</title>
         <link>https://soundcloud.com/user-571358776</link>
         <pubDate>Tue, 02 Aug 2022 17:20:30 +0000</pubDate>
