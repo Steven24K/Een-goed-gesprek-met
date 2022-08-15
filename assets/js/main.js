@@ -45,3 +45,35 @@ function changeProgressBar() {
 }
 
 progressBar.addEventListener("click", changeProgressBar);
+
+async function get_podcasts_from_feed() {
+    let res = await fetch('https://stevenkoerts.nl/Een-goed-gesprek-met/feed.rss')
+        .then(response => response.text())
+        .then(xml => {
+            let parser = new DOMParser();
+            let xmlDoc = parser.parseFromString(xml, "text/xml");
+            return xmlDoc;
+        });
+
+    let items = res.getElementsByTagName('item');
+    let podcasts = [];
+
+    for (let c = 0; c < items.length; c++) {
+        let p = items[c];
+        let podcast = {
+            title: p.getElementsByTagName('title')[0].innerHTML,
+            date: p.getElementsByTagName('pubDate')[0].innerHTML,
+            description: p.getElementsByTagName('description')[0].innerHTML,
+            file: p.getElementsByTagName('enclosure')[0].getAttribute('url'),
+        }
+        podcasts.push(podcast);
+    }
+
+    return podcasts;
+
+}
+
+window.addEventListener('load', async () => {
+    let p = await get_podcasts_from_feed();
+    console.log(p);
+})
