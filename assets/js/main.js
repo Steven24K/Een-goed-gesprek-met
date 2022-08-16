@@ -73,6 +73,54 @@ async function get_podcasts_from_feed() {
 
 }
 
+function mkPodcastMarkup(file, title, id) {
+    let li = document.createElement('li');
+    let div = document.createElement('div');
+    let audio = document.createElement('audio');
+    let p = document.createElement('p');
+    let button = document.createElement('button');
+    let span_current_time = document.createElement('span');
+    let input_slider = document.createElement('input');
+    let span_duration = document.createElement('span');
+
+
+    audio.id = `audio-${id}`;
+    audio.src = file;
+    audio.preload="metadata";
+    audio.loop = true;
+
+    p.innerText = title;
+
+    button.className = 'play-icon';
+    button.id = `play-icon-${id}`;
+
+    span_current_time.id = `current-time-${id}`;
+    span_current_time.className = 'time';
+    span_current_time.innerText = "0:00";
+
+    input_slider.id = 'seek-slider';
+    input_slider.type = 'range'; 
+    input_slider.max = "100"; 
+    input_slider.min = "0"; 
+    input_slider.value = '0';
+
+    span_duration.id = `duration-${id}`;
+    span_duration.className = 'time'; 
+    span_duration.innerText = '0:00';
+
+
+    div.className = "audio-player";
+    div.id = `audio-player-container-${id}`;
+    div.appendChild(audio);
+    div.appendChild(p);
+    div.appendChild(button);
+    div.appendChild(span_current_time);
+    div.appendChild(input_slider);
+    div.appendChild(span_duration);
+
+}
+
+
 window.addEventListener('load', async () => {
     let p = await get_podcasts_from_feed();
     console.log(p);
