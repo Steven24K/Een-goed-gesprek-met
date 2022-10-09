@@ -35,13 +35,14 @@ body {
 .players {
     /* border: 2px solid  red; */
     padding-left: 1%;
-    width: 80%;
+    width: 90%;
     margin-left: auto;
     margin-right: auto;
 }
 
 .player-list li {
     list-style-type: none;
+    padding-top: 30px;
 }
 
 /*Audio player style thanks to https://codepen.io/idorenyinudoh/pen/BaLxydw*/
@@ -63,9 +64,11 @@ body {
     position: relative;
     /* margin: 100px 2.5% auto 2.5%; */
     width: 95%;
-    /* max-width: 500px; */
-    height: 80px;
+    max-width: 800px;
+    height: 100px;
     background: #fff;
+    margin-left: auto;
+    margin-right: auto;
 }
 .audio-player::before {
     position: absolute;
@@ -78,14 +81,13 @@ body {
     z-index: -1;
 }
 p {
-    position: absolute;
-    top: -18px;
-    right: 5%;
+    text-align: right;
+    position: relative;
     padding: 0 5px;
     margin: 0;
     font-size: 28px;
     background: #fff;
-    border: 2px solid rgb(16, 143, 216);
+    border-bottom: 2px solid rgb(16, 143, 216);
 }
 .play-icon {
     font-size: 100%;
