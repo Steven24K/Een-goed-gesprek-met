@@ -28,6 +28,20 @@
         <itunes:category text="Society &amp; Culture" />
         <item>
             <guid isPermaLink="false">tag:soundcloud,2010:tracks/4464684</guid>
+            <title>#7 - KMR</title>
+            <pubDate>Sun, 12 Nov 2022 13:14:05 +0000</pubDate>
+            <link>https://stevenkoerts.nl/Een-goed-gesprek-met</link>
+            <itunes:duration>00:39:27</itunes:duration>
+            <itunes:author>Een goed gesprek met van A tot Z</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Kershawn, of beter bekend als KMR is een ware woordkunstenaar en performer. Hoe is hij begonnen met het schrijven van poëzie em spokenword? Welke thema's vind hij belangrijk? En waar wordt je nu echt gelukkig van?</itunes:summary>
+            <itunes:subtitle>Kershawn, of beter bekend als KMR is een ware woordkunstenaar en performer. Hoe is hij begonnen met het schrijven van poëzie em spokenword? Welke thema's vind hij belangrijk? En waar wordt je nu echt gelukkig van?</itunes:subtitle>
+            <description>Kershawn, of beter bekend als KMR is een ware woordkunstenaar en performer. Hoe is hij begonnen met het schrijven van poëzie em spokenword? Welke thema's vind hij belangrijk? En waar wordt je nu echt gelukkig van?</description>
+            <enclosure type="audio/mpeg" url="https://github.com/Steven24K/Een-goed-gesprek-met/blob/main/podcasts/Podcast-6-kmr.mp3?raw=true" length="36035232" />
+            <itunes:image href="https://i1.sndcdn.com/avatars-08l0w0GNKRUVYyAy-VodlcA-original.jpg" />
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/4464684</guid>
             <title>#6 - Anja Winter</title>
             <pubDate>Sun, 29 Oct 2022 13:14:05 +0000</pubDate>
             <link>https://stevenkoerts.nl/Een-goed-gesprek-met</link>
