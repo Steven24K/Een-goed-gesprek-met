@@ -1,8 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <atom:link href="https://stevenkoerts.nl/Een-goed-gesprek-met/feed.rss" rel="self" type="application/rss+xml" />
-        <atom:link href="https://stevenkoerts.nl/Een-goed-gesprek-met/feed.rss?before=1298598907" rel="next" type="application/rss+xml" />
+        <atom:link href="https://stevenkoerts.nl/Een-goed-gesprek-met/feed.rss" rel="self"
+            type="application/rss+xml" />
+        <atom:link href="https://stevenkoerts.nl/Een-goed-gesprek-met/feed.rss?before=1298598907"
+            rel="next" type="application/rss+xml" />
         <title>Een goed gesprek met van A tot Z</title>
         <link>https://stevenkoerts.nl/Een-goed-gesprek-met/</link>
         <pubDate>Tue, 02 Aug 2022 17:20:30 +0000</pubDate>
@@ -27,6 +30,38 @@
         </image>
         <itunes:category text="Society &amp; Culture" />
         <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/2</guid>
+            <title>Pilot #2</title>
+            <pubDate>Sun, 21 May 2023 13:14:05 +0000</pubDate>
+            <link>https://stevenkoerts.nl/Een-goed-gesprek-met</link>
+            <itunes:duration>00:39:27</itunes:duration>
+            <itunes:author>Een goed gesprek met van A tot Z</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>De tweede pilot aflevering van deze podcast.</itunes:summary>
+            <itunes:subtitle>De tweede pilot aflevering van deze podcast.</itunes:subtitle>
+            <description>De tweede pilot aflevering van deze podcast.</description>
+            <enclosure type="audio/mpeg"
+                url="https://github.com/Steven24K/Een-goed-gesprek-met/blob/main/podcasts/Podcast-pilot-2.mp3?raw=true"
+                length="36035232" />
+            <itunes:image href="https://i1.sndcdn.com/avatars-08l0w0GNKRUVYyAy-VodlcA-original.jpg" />
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/1</guid>
+            <title>Pilot #1</title>
+            <pubDate>Sun, 21 May 2023 13:14:05 +0000</pubDate>
+            <link>https://stevenkoerts.nl/Een-goed-gesprek-met</link>
+            <itunes:duration>00:39:27</itunes:duration>
+            <itunes:author>Een goed gesprek met van A tot Z</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>De eerste pilot aflevering van deze podcast.</itunes:summary>
+            <itunes:subtitle>De eerste pilot aflevering van deze podcast.</itunes:subtitle>
+            <description>De eerste pilot aflevering van deze podcast.</description>
+            <enclosure type="audio/mpeg"
+                url="https://github.com/Steven24K/Een-goed-gesprek-met/blob/main/podcasts/Podcast-pilot-1.mp3?raw=true"
+                length="36035232" />
+            <itunes:image href="https://i1.sndcdn.com/avatars-08l0w0GNKRUVYyAy-VodlcA-original.jpg" />
+        </item>
+        <item>
             <guid isPermaLink="false">tag:soundcloud,2010:tracks/5435345435</guid>
             <title>#7 - KMR</title>
             <pubDate>Sun, 12 Nov 2022 13:14:05 +0000</pubDate>
@@ -34,10 +69,18 @@
             <itunes:duration>00:39:27</itunes:duration>
             <itunes:author>Een goed gesprek met van A tot Z</itunes:author>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:summary>Kershawn, of beter bekend als KMR is een ware woordkunstenaar en performer. Hoe is hij begonnen met het schrijven van poëzie em spokenword? Welke thema's vind hij belangrijk? En waar wordt je nu echt gelukkig van?</itunes:summary>
-            <itunes:subtitle>Kershawn, of beter bekend als KMR is een ware woordkunstenaar en performer. Hoe is hij begonnen met het schrijven van poëzie em spokenword? Welke thema's vind hij belangrijk? En waar wordt je nu echt gelukkig van?</itunes:subtitle>
-            <description>Kershawn, of beter bekend als KMR is een ware woordkunstenaar en performer. Hoe is hij begonnen met het schrijven van poëzie em spokenword? Welke thema's vind hij belangrijk? En waar wordt je nu echt gelukkig van?</description>
-            <enclosure type="audio/mpeg" url="https://github.com/Steven24K/Een-goed-gesprek-met/blob/main/podcasts/Podcast-6-kmr.mp3?raw=true" length="36035232" />
+            <itunes:summary>Kershawn, of beter bekend als KMR is een ware woordkunstenaar en
+                performer. Hoe is hij begonnen met het schrijven van poëzie em spokenword? Welke
+                thema's vind hij belangrijk? En waar wordt je nu echt gelukkig van?</itunes:summary>
+            <itunes:subtitle>Kershawn, of beter bekend als KMR is een ware woordkunstenaar en
+                performer. Hoe is hij begonnen met het schrijven van poëzie em spokenword? Welke
+                thema's vind hij belangrijk? En waar wordt je nu echt gelukkig van?</itunes:subtitle>
+            <description>Kershawn, of beter bekend als KMR is een ware woordkunstenaar en performer.
+                Hoe is hij begonnen met het schrijven van poëzie em spokenword? Welke thema's vind
+                hij belangrijk? En waar wordt je nu echt gelukkig van?</description>
+            <enclosure type="audio/mpeg"
+                url="https://github.com/Steven24K/Een-goed-gesprek-met/blob/main/podcasts/Podcast-6-kmr.mp3?raw=true"
+                length="36035232" />
             <itunes:image href="https://i1.sndcdn.com/avatars-08l0w0GNKRUVYyAy-VodlcA-original.jpg" />
         </item>
         <item>
@@ -48,10 +91,18 @@
             <itunes:duration>00:38:46</itunes:duration>
             <itunes:author>Een goed gesprek met van A tot Z</itunes:author>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:summary>Anja Winter is al 40 jaar actief als zangers. Van grote podia in het land tot aan kleine cafés, waar Anja optreed maakt niet uit. Eén ding is zeker alles om haar publiek te entertainen.</itunes:summary>
-            <itunes:subtitle>Anja Winter is al 40 jaar actief als zangers. Van grote podia in het land tot aan kleine cafés, waar Anja optreed maakt niet uit. Eén ding is zeker alles om haar publiek te entertainen.</itunes:subtitle>
-            <description>Anja Winter is al 40 jaar actief als zangers. Van grote podia in het land tot aan kleine cafés, waar Anja optreed maakt niet uit. Eén ding is zeker alles om haar publiek te entertainen. </description>
-            <enclosure type="audio/mpeg" url="https://github.com/Steven24K/Een-goed-gesprek-met/blob/main/podcasts/Podcast_6_anja_winter.mp3?raw=true" length="36035232" />
+            <itunes:summary>Anja Winter is al 40 jaar actief als zangers. Van grote podia in het
+                land tot aan kleine cafés, waar Anja optreed maakt niet uit. Eén ding is zeker alles
+                om haar publiek te entertainen.</itunes:summary>
+            <itunes:subtitle>Anja Winter is al 40 jaar actief als zangers. Van grote podia in het
+                land tot aan kleine cafés, waar Anja optreed maakt niet uit. Eén ding is zeker alles
+                om haar publiek te entertainen.</itunes:subtitle>
+            <description>Anja Winter is al 40 jaar actief als zangers. Van grote podia in het land
+                tot aan kleine cafés, waar Anja optreed maakt niet uit. Eén ding is zeker alles om
+                haar publiek te entertainen. </description>
+            <enclosure type="audio/mpeg"
+                url="https://github.com/Steven24K/Een-goed-gesprek-met/blob/main/podcasts/Podcast_6_anja_winter.mp3?raw=true"
+                length="36035232" />
             <itunes:image href="https://i1.sndcdn.com/avatars-08l0w0GNKRUVYyAy-VodlcA-original.jpg" />
         </item>
         <item>
@@ -62,11 +113,19 @@
             <itunes:duration>00:38:46</itunes:duration>
             <itunes:author>Een goed gesprek met van A tot Z</itunes:author>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:summary>In gesprek met Bernard Boode, theatermaker, regisseur in het amateurtoneel, organisator van Cultuur Borrelt en bovenal een actieve Schiedammer. Wat beweegt iemand om cultuur te maken? Waarom een buurtfeest? Hoe begin je dit alles?  </itunes:summary>
+            <itunes:summary>In gesprek met Bernard Boode, theatermaker, regisseur in het
+                amateurtoneel, organisator van Cultuur Borrelt en bovenal een actieve Schiedammer.
+                Wat beweegt iemand om cultuur te maken? Waarom een buurtfeest? Hoe begin je dit
+                alles? </itunes:summary>
             <itunes:subtitle>In gesprek met Bernard Boode…</itunes:subtitle>
-            <description>In gesprek met Bernard Boode, theatermaker, regisseur in het amateurtoneel, organisator van Cultuur Borrelt en bovenal een actieve Schiedammer. Wat beweegt iemand om cultuur te maken? Waarom een buurtfeest? Hoe begin je dit alles? </description>
-            <enclosure type="audio/mpeg" url="https://github.com/Steven24K/Een-goed-gesprek-met/blob/main/podcasts/podcast-5-bernard_boode.mp3?raw=true" length="36035232" />
-            <itunes:image href="https://stevenkoerts.nl/Een-goed-gesprek-met/assets/img/DSC_0964.JPG" />
+            <description>In gesprek met Bernard Boode, theatermaker, regisseur in het amateurtoneel,
+                organisator van Cultuur Borrelt en bovenal een actieve Schiedammer. Wat beweegt
+                iemand om cultuur te maken? Waarom een buurtfeest? Hoe begin je dit alles? </description>
+            <enclosure type="audio/mpeg"
+                url="https://github.com/Steven24K/Een-goed-gesprek-met/blob/main/podcasts/podcast-5-bernard_boode.mp3?raw=true"
+                length="36035232" />
+            <itunes:image
+                href="https://stevenkoerts.nl/Een-goed-gesprek-met/assets/img/DSC_0964.JPG" />
         </item>
         <item>
             <guid isPermaLink="false">tag:soundcloud,2010:tracks/1323515713</guid>
@@ -76,11 +135,18 @@
             <itunes:duration>00:38:46</itunes:duration>
             <itunes:author>Een goed gesprek met van A tot Z</itunes:author>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:summary>In deze uitzending zijn we in gesprek met Jarle Lourens, Jarle is spreker, story teller, spoken word artiest en stadsdichter van Schiedam. Hoe word je stadsdichter? Waarom ben je begonnen met schrijven? Welke potentie heeft Schiedam?</itunes:summary>
+            <itunes:summary>In deze uitzending zijn we in gesprek met Jarle Lourens, Jarle is
+                spreker, story teller, spoken word artiest en stadsdichter van Schiedam. Hoe word je
+                stadsdichter? Waarom ben je begonnen met schrijven? Welke potentie heeft Schiedam?</itunes:summary>
             <itunes:subtitle>In deze uitzending zijn we in gesprek met Jarle L…</itunes:subtitle>
-            <description>In deze uitzending zijn we in gesprek met Jarle Lourens, Jarle is spreker, story teller, spoken word artiest en stadsdichter van Schiedam. Hoe word je stadsdichter? Waarom ben je begonnen met schrijven? Welke potentie heeft Schiedam?</description>
-            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1323515713-user-571358776-4-jarle-lourens.mp3" length="36035232" />
-            <itunes:image href="https://i1.sndcdn.com/artworks-ZmUwWcxZPgL7nm3O-pePYNg-t3000x3000.jpg" />
+            <description>In deze uitzending zijn we in gesprek met Jarle Lourens, Jarle is spreker,
+                story teller, spoken word artiest en stadsdichter van Schiedam. Hoe word je
+                stadsdichter? Waarom ben je begonnen met schrijven? Welke potentie heeft Schiedam?</description>
+            <enclosure type="audio/mpeg"
+                url="https://feeds.soundcloud.com/stream/1323515713-user-571358776-4-jarle-lourens.mp3"
+                length="36035232" />
+            <itunes:image
+                href="https://i1.sndcdn.com/artworks-ZmUwWcxZPgL7nm3O-pePYNg-t3000x3000.jpg" />
         </item>
         <item>
             <guid isPermaLink="false">tag:soundcloud,2010:tracks/1316559253</guid>
@@ -90,11 +156,20 @@
             <itunes:duration>00:38:21</itunes:duration>
             <itunes:author>Een goed gesprek met van A tot Z</itunes:author>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:summary>De aflevering zijn we te gast bij Bewonersvereniging Schiedam Zuid op Leliestraat 10. We gaan in gesprek met Beau, de jongste voorzitter in de geschiedenis van de vereniging.  Wat doen ze voor de wijk? En hoe kan jij zelf bijdragen de wijk ietsje beter te maken?</itunes:summary>
+            <itunes:summary>De aflevering zijn we te gast bij Bewonersvereniging Schiedam Zuid op
+                Leliestraat 10. We gaan in gesprek met Beau, de jongste voorzitter in de
+                geschiedenis van de vereniging. Wat doen ze voor de wijk? En hoe kan jij zelf
+                bijdragen de wijk ietsje beter te maken?</itunes:summary>
             <itunes:subtitle>De aflevering zijn we te gast bij Bewonersverenig…</itunes:subtitle>
-            <description>De aflevering zijn we te gast bij Bewonersvereniging Schiedam Zuid op Leliestraat 10. We gaan in gesprek met Beau, de jongste voorzitter in de geschiedenis van de vereniging.  Wat doen ze voor de wijk? En hoe kan jij zelf bijdragen de wijk ietsje beter te maken?</description>
-            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1316559253-user-571358776-3-beau-van-t-hoen.mp3" length="41084998" />
-            <itunes:image href="https://i1.sndcdn.com/artworks-8Yyo7je16l3bPWOK-gRTdXQ-t3000x3000.jpg" />
+            <description>De aflevering zijn we te gast bij Bewonersvereniging Schiedam Zuid op
+                Leliestraat 10. We gaan in gesprek met Beau, de jongste voorzitter in de
+                geschiedenis van de vereniging. Wat doen ze voor de wijk? En hoe kan jij zelf
+                bijdragen de wijk ietsje beter te maken?</description>
+            <enclosure type="audio/mpeg"
+                url="https://feeds.soundcloud.com/stream/1316559253-user-571358776-3-beau-van-t-hoen.mp3"
+                length="41084998" />
+            <itunes:image
+                href="https://i1.sndcdn.com/artworks-8Yyo7je16l3bPWOK-gRTdXQ-t3000x3000.jpg" />
         </item>
         <item>
             <guid isPermaLink="false">tag:soundcloud,2010:tracks/1306680811</guid>
@@ -104,11 +179,18 @@
             <itunes:duration>00:46:59</itunes:duration>
             <itunes:author>Een goed gesprek met van A tot Z</itunes:author>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:summary>Opgegroeid op de Dominicaanse Republiek en nu wonend in Schiedam. Wat brengt Sonya in Schiedam? We praten in deze aflevering over het leven, de liefde en schoonheidsidealen.</itunes:summary>
+            <itunes:summary>Opgegroeid op de Dominicaanse Republiek en nu wonend in Schiedam. Wat
+                brengt Sonya in Schiedam? We praten in deze aflevering over het leven, de liefde en
+                schoonheidsidealen.</itunes:summary>
             <itunes:subtitle>Opgegroeid op de Dominicaanse Republiek en nu won…</itunes:subtitle>
-            <description>Opgegroeid op de Dominicaanse Republiek en nu wonend in Schiedam. Wat brengt Sonya in Schiedam? We praten in deze aflevering over het leven, de liefde en schoonheidsidealen.</description>
-            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1306680811-user-571358776-3-sonya-hellement.mp3" length="56292312" />
-            <itunes:image href="https://i1.sndcdn.com/artworks-cXbyVhGu9QKfpxGw-ugrEYg-t3000x3000.jpg" />
+            <description>Opgegroeid op de Dominicaanse Republiek en nu wonend in Schiedam. Wat
+                brengt Sonya in Schiedam? We praten in deze aflevering over het leven, de liefde en
+                schoonheidsidealen.</description>
+            <enclosure type="audio/mpeg"
+                url="https://feeds.soundcloud.com/stream/1306680811-user-571358776-3-sonya-hellement.mp3"
+                length="56292312" />
+            <itunes:image
+                href="https://i1.sndcdn.com/artworks-cXbyVhGu9QKfpxGw-ugrEYg-t3000x3000.jpg" />
         </item>
         <item>
             <guid isPermaLink="false">tag:soundcloud,2010:tracks/1298598907</guid>
@@ -118,11 +200,20 @@
             <itunes:duration>00:52:45</itunes:duration>
             <itunes:author>Een goed gesprek met van A tot Z</itunes:author>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:summary>Deze aflevering is Pieter Bos in gesprek met Cor Heukels voorzitter van senioren vereniging SooS Blauwhuis. Wat komt er bij kijken om een vereniging draaiende te houden? Hoe ga je er mee om als leden wegvallen? Waarvoor staat de senioren vereniging?</itunes:summary>
+            <itunes:summary>Deze aflevering is Pieter Bos in gesprek met Cor Heukels voorzitter van
+                senioren vereniging SooS Blauwhuis. Wat komt er bij kijken om een vereniging
+                draaiende te houden? Hoe ga je er mee om als leden wegvallen? Waarvoor staat de
+                senioren vereniging?</itunes:summary>
             <itunes:subtitle>Deze aflevering is Pieter Bos in gesprek met Cor …</itunes:subtitle>
-            <description>Deze aflevering is Pieter Bos in gesprek met Cor Heukels voorzitter van senioren vereniging SooS Blauwhuis. Wat komt er bij kijken om een vereniging draaiende te houden? Hoe ga je er mee om als leden wegvallen? Waarvoor staat de senioren vereniging?</description>
-            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1298598907-user-571358776-1-cor-heukels-soos-blauwhuis.mp3" length="48022785" />
-            <itunes:image href="https://i1.sndcdn.com/artworks-6ydnRzlzqQcLyHEy-dQuQWA-t3000x3000.jpg" />
+            <description>Deze aflevering is Pieter Bos in gesprek met Cor Heukels voorzitter van
+                senioren vereniging SooS Blauwhuis. Wat komt er bij kijken om een vereniging
+                draaiende te houden? Hoe ga je er mee om als leden wegvallen? Waarvoor staat de
+                senioren vereniging?</description>
+            <enclosure type="audio/mpeg"
+                url="https://feeds.soundcloud.com/stream/1298598907-user-571358776-1-cor-heukels-soos-blauwhuis.mp3"
+                length="48022785" />
+            <itunes:image
+                href="https://i1.sndcdn.com/artworks-6ydnRzlzqQcLyHEy-dQuQWA-t3000x3000.jpg" />
         </item>
     </channel>
 </rss>
